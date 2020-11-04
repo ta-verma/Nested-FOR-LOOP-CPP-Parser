@@ -4,10 +4,9 @@
 
 Submitted by:
 
-1.Tarun Verma - 17HCS
-
-2. Nitesh Kumar – 17HCS
-3. Ricky Rajat Kerketta -17HCS
+1.Tarun Verma
+2. Nitesh Kumar
+3. Ricky Rajat Kerketta
 
 ## SYSTEM PROGRAMMING
 
